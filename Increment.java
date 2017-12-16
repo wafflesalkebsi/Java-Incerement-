@@ -6,7 +6,7 @@ public class Program {
 
 // Loop will run through 1, 2, 3 and increment by 1, until it reaches 4, system stops. 
 
-        for (int i = 1; i < 4; i++) {
+        for (int i = 0; i < 4; i++) {
             System.out.println(i);
         }
     }
