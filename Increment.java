@@ -1,10 +1,13 @@
-# Java-Incerement-
-// This is a Java array will incerements every element in the array [1,2,3] by one
+//In a source file named Incrememt.java
 
-public class Incrememt {
+import java.util.*;
+import java.lang.*;
+
+public class Incrememt 
+{
     public static void main(String [] args) {
 
-int i = new int [1,2,3];
+int[] myIntArray = {1,2,3}; 
 
 // This Loop will run through 1, 2, 3 and increment by 1, until it reaches 4, system pauses 
 
@@ -13,3 +16,4 @@ int i = new int [1,2,3];
         }
     }
 }
+
