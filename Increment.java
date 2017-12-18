@@ -4,7 +4,7 @@
 public class Incrememt {
     public static void main(String [] args) {
 
-int a= new int [1,2,3];
+int i = new int [1,2,3];
 
 // This Loop will run through 1, 2, 3 and increment by 1, until it reaches 4, system pauses 
 
